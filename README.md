@@ -10,6 +10,6 @@
 ![avatar](http://thyrsi.com/t6/656/1547449602x2890174321.png)  
 查询修改教师个人信息，增删改查教师本人所授课学生的考勤信息。
 ### 安装运行
->安装Java>=1.8和maven3  
+> 安装Java>=1.8和maven3  
 在项目根目录下运行 mvn compile test
 
